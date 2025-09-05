@@ -11,7 +11,7 @@ export default function Desktop() {
       <div className="size-full">
         <div className="w-[400px] h-[400px] bg-bg text-bg-fg flex items-center justify-center">
 
-          <Button actio>
+          <Button action="primary" variant="solid" size="sm">
             Hello world
           </Button>
 
